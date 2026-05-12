@@ -1,0 +1,8 @@
+{
+  "maxEdges": 999999,
+  "flowchart": {
+    "defaultRenderer": "elk",
+    "nodeSpacing": 100,
+    "rankSpacing": 150
+  }
+}
